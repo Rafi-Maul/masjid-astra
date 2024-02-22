@@ -1,0 +1,1 @@
+ALTER TABLE trans.propinsi DROP COLUMN flag_history;ALTER TABLE trans.propinsi DROP COLUMN flag_delete;
