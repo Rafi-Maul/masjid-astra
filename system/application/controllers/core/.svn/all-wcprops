@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensolutions/!svn/ver/284/branches/yayasan-astra/system/application/controllers/core
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/group.php
+END
+groupAccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/groupAccess.php
+END
+subMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/subMenu.php
+END
+modul.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/modul.php
+END
+service.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/service.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/access.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/284/branches/yayasan-astra/system/application/controllers/core/main.php
+END
+menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/menu.php
+END
+tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/tab.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/controllers/core/login.php
+END

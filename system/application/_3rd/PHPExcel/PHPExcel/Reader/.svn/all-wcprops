@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader
+END
+Excel2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/Excel2007.php
+END
+Gnumeric.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/Gnumeric.php
+END
+IReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/IReadFilter.php
+END
+CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/CSV.php
+END
+IReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/IReader.php
+END
+Serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/Serialized.php
+END
+OOCalc.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/OOCalc.php
+END
+SYLK.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/SYLK.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/Excel5.php
+END
+DefaultReadFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/DefaultReadFilter.php
+END
+Excel2003XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Reader/Excel2003XML.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensolutions/!svn/ver/244/branches/yayasan-astra/system/application/controllers/basic
+END
+ustadz.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/240/branches/yayasan-astra/system/application/controllers/basic/ustadz.php
+END
+bank.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/186/branches/yayasan-astra/system/application/controllers/basic/bank.php
+END
+mappingTransaksi.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensolutions/!svn/ver/244/branches/yayasan-astra/system/application/controllers/basic/mappingTransaksi.php
+END
+subKodeKas.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/opensolutions/!svn/ver/222/branches/yayasan-astra/system/application/controllers/basic/subKodeKas.php
+END
+karyawan.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/240/branches/yayasan-astra/system/application/controllers/basic/karyawan.php
+END
+kota.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/183/branches/yayasan-astra/system/application/controllers/basic/kota.php
+END
+rekeningBank.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/225/branches/yayasan-astra/system/application/controllers/basic/rekeningBank.php
+END
+kodeKas.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/221/branches/yayasan-astra/system/application/controllers/basic/kodeKas.php
+END
+propinsi.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/182/branches/yayasan-astra/system/application/controllers/basic/propinsi.php
+END
+guruTpa.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/240/branches/yayasan-astra/system/application/controllers/basic/guruTpa.php
+END
+jenisTransaksi.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensolutions/!svn/ver/243/branches/yayasan-astra/system/application/controllers/basic/jenisTransaksi.php
+END

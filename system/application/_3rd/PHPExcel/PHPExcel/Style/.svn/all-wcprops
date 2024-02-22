@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Border.php
+END
+Alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Alignment.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Color.php
+END
+Borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Borders.php
+END
+NumberFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/NumberFormat.php
+END
+Conditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Conditional.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Fill.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Font.php
+END
+Protection.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Style/Protection.php
+END

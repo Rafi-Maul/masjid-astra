@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  	<head>
+  		<meta http-equiv='content-type' content='text/html; charset=windows-1250'>
+  		<meta name='generator' content='PSPad editor, www.pspad.com'>
+  		<base href='<?php echo base_url(); ?>'/>
+  		<title><?php echo $title; ?></title>
+  		<link rel='stylesheet' type='text/css' href='<?php echo $css_folder; ?>/main.css'/>
+  		<link rel='shortcut icon' href='<?php echo $img_folder; ?>/app.ico'/>
+  		<script language='javascript' type='text/javascript' src='<?php echo $js_folder; ?>/jquery-1.4.4.min.js'></script>
+  		<script language='javascript' type='text/javascript' src='<?php echo $js_folder; ?>/main.js'></script>
+  	</head>
+  	<body scroll='no'>

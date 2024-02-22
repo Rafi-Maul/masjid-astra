@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql
+END
+mssql_driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql/mssql_driver.php
+END
+mssql_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql/mssql_result.php
+END
+mssql_forge.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql/mssql_forge.php
+END
+mssql_utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql/mssql_utility.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/database/drivers/mssql/index.html
+END

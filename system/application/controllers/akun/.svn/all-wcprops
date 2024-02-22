@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensolutions/!svn/ver/310/branches/yayasan-astra/system/application/controllers/akun
+END
+arusKas.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/236/branches/yayasan-astra/system/application/controllers/akun/arusKas.php
+END
+perubahanDana.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/237/branches/yayasan-astra/system/application/controllers/akun/perubahanDana.php
+END
+jurnal.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/250/branches/yayasan-astra/system/application/controllers/akun/jurnal.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/231/branches/yayasan-astra/system/application/controllers/akun/group.php
+END
+aktivitas.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/232/branches/yayasan-astra/system/application/controllers/akun/aktivitas.php
+END
+transaksiPenerimaan.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/310/branches/yayasan-astra/system/application/controllers/akun/transaksiPenerimaan.php
+END
+posisiKeuangan.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/opensolutions/!svn/ver/238/branches/yayasan-astra/system/application/controllers/akun/posisiKeuangan.php
+END
+service.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/251/branches/yayasan-astra/system/application/controllers/akun/service.php
+END
+transaksiPengeluaran.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/opensolutions/!svn/ver/310/branches/yayasan-astra/system/application/controllers/akun/transaksiPengeluaran.php
+END
+coa.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensolutions/!svn/ver/234/branches/yayasan-astra/system/application/controllers/akun/coa.php
+END
+saldo.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/239/branches/yayasan-astra/system/application/controllers/akun/saldo.php
+END
+persetujuan.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/opensolutions/!svn/ver/277/branches/yayasan-astra/system/application/controllers/akun/persetujuan.php
+END
+level.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/233/branches/yayasan-astra/system/application/controllers/akun/level.php
+END
+tutupBuku.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/259/branches/yayasan-astra/system/application/controllers/akun/tutupBuku.php
+END

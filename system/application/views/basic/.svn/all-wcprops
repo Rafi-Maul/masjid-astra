@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/opensolutions/!svn/ver/244/branches/yayasan-astra/system/application/views/basic
+END
+list_kota.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/224/branches/yayasan-astra/system/application/views/basic/list_kota.php
+END
+list_sub_kode_kas_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensolutions/!svn/ver/222/branches/yayasan-astra/system/application/views/basic/list_sub_kode_kas_edit.php
+END
+list_jenis_transaksi_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/243/branches/yayasan-astra/system/application/views/basic/list_jenis_transaksi_add.php
+END
+list_penerima.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/226/branches/yayasan-astra/system/application/views/basic/list_penerima.php
+END
+list_sub_kode_kas_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensolutions/!svn/ver/222/branches/yayasan-astra/system/application/views/basic/list_sub_kode_kas_add.php
+END
+list_rekening.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/225/branches/yayasan-astra/system/application/views/basic/list_rekening.php
+END
+list_kota_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/183/branches/yayasan-astra/system/application/views/basic/list_kota_edit.php
+END
+list_propinsi.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/224/branches/yayasan-astra/system/application/views/basic/list_propinsi.php
+END
+list_penerima_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/226/branches/yayasan-astra/system/application/views/basic/list_penerima_edit.php
+END
+list_kota_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/183/branches/yayasan-astra/system/application/views/basic/list_kota_add.php
+END
+list_rekening_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/225/branches/yayasan-astra/system/application/views/basic/list_rekening_edit.php
+END
+list_penerima_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/226/branches/yayasan-astra/system/application/views/basic/list_penerima_add.php
+END
+list_propinsi_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/178/branches/yayasan-astra/system/application/views/basic/list_propinsi_edit.php
+END
+list_mapping_transaksi.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensolutions/!svn/ver/244/branches/yayasan-astra/system/application/views/basic/list_mapping_transaksi.php
+END
+list_rekening_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/225/branches/yayasan-astra/system/application/views/basic/list_rekening_add.php
+END
+list_bank.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/224/branches/yayasan-astra/system/application/views/basic/list_bank.php
+END
+list_propinsi_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/178/branches/yayasan-astra/system/application/views/basic/list_propinsi_add.php
+END
+list_mapping_transaksi_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/opensolutions/!svn/ver/244/branches/yayasan-astra/system/application/views/basic/list_mapping_transaksi_edit.php
+END
+list_kode_kas.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/224/branches/yayasan-astra/system/application/views/basic/list_kode_kas.php
+END
+list_bank_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/186/branches/yayasan-astra/system/application/views/basic/list_bank_edit.php
+END
+list_bank_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/186/branches/yayasan-astra/system/application/views/basic/list_bank_add.php
+END
+list_kode_kas_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/221/branches/yayasan-astra/system/application/views/basic/list_kode_kas_edit.php
+END
+list_jenis_transaksi.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensolutions/!svn/ver/243/branches/yayasan-astra/system/application/views/basic/list_jenis_transaksi.php
+END
+list_kode_kas_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/221/branches/yayasan-astra/system/application/views/basic/list_kode_kas_add.php
+END
+list_sub_kode_kas.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/224/branches/yayasan-astra/system/application/views/basic/list_sub_kode_kas.php
+END
+list_jenis_transaksi_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/opensolutions/!svn/ver/243/branches/yayasan-astra/system/application/views/basic/list_jenis_transaksi_edit.php
+END

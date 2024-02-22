@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/opensolutions/!svn/ver/263/branches/yayasan-astra/system/application/config
+END
+doctypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/doctypes.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/mimes.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/constants.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/user_agents.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/routes.php
+END
+hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/hooks.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/index.html
+END
+smileys.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/smileys.php
+END
+config-extra.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/opensolutions/!svn/ver/263/branches/yayasan-astra/system/application/config/config-extra.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/config/autoload.php
+END

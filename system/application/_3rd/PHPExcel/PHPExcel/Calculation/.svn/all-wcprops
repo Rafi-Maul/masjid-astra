@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation
+END
+Engineering.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Engineering.php
+END
+ExceptionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/ExceptionHandler.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/DateTime.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Exception.php
+END
+LookupRef.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/LookupRef.php
+END
+FormulaToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/FormulaToken.php
+END
+Functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Functions.php
+END
+functionlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/functionlist.txt
+END
+Logical.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Logical.php
+END
+TextData.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/TextData.php
+END
+MathTrig.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/MathTrig.php
+END
+FormulaParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/FormulaParser.php
+END
+Statistical.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Statistical.php
+END
+Financial.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Financial.php
+END
+Function.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/opensolutions/!svn/ver/169/branches/yayasan-astra/system/application/_3rd/PHPExcel/PHPExcel/Calculation/Function.php
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/opensolutions/!svn/ver/287/branches/yayasan-astra/system/application/views/akun
+END
+list_transaksi_penerimaan.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/opensolutions/!svn/ver/256/branches/yayasan-astra/system/application/views/akun/list_transaksi_penerimaan.php
+END
+list_aktivitas.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/232/branches/yayasan-astra/system/application/views/akun/list_aktivitas.php
+END
+list_saldo.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/239/branches/yayasan-astra/system/application/views/akun/list_saldo.php
+END
+list_coa.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/opensolutions/!svn/ver/234/branches/yayasan-astra/system/application/views/akun/list_coa.php
+END
+jurnal_umum.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/opensolutions/!svn/ver/248/branches/yayasan-astra/system/application/views/akun/jurnal_umum.php
+END
+list_transaksi_penerimaan_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensolutions/!svn/ver/283/branches/yayasan-astra/system/application/views/akun/list_transaksi_penerimaan_edit.php
+END
+list_persetujuan_penerimaan.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/opensolutions/!svn/ver/253/branches/yayasan-astra/system/application/views/akun/list_persetujuan_penerimaan.php
+END
+list_persetujuan.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/opensolutions/!svn/ver/255/branches/yayasan-astra/system/application/views/akun/list_persetujuan.php
+END
+template_perubahan.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensolutions/!svn/ver/237/branches/yayasan-astra/system/application/views/akun/template_perubahan.php
+END
+list_transaksi_penerimaan_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/opensolutions/!svn/ver/283/branches/yayasan-astra/system/application/views/akun/list_transaksi_penerimaan_add.php
+END
+template_posisi.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/238/branches/yayasan-astra/system/application/views/akun/template_posisi.php
+END
+list_level.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/233/branches/yayasan-astra/system/application/views/akun/list_level.php
+END
+list_coa_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/opensolutions/!svn/ver/234/branches/yayasan-astra/system/application/views/akun/list_coa_edit.php
+END
+jurnal_umum_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/opensolutions/!svn/ver/248/branches/yayasan-astra/system/application/views/akun/jurnal_umum_edit.php
+END
+list_persetujuan_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/opensolutions/!svn/ver/254/branches/yayasan-astra/system/application/views/akun/list_persetujuan_edit.php
+END
+list_coa_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/234/branches/yayasan-astra/system/application/views/akun/list_coa_add.php
+END
+list_level_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensolutions/!svn/ver/233/branches/yayasan-astra/system/application/views/akun/list_level_edit.php
+END
+template_kas.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/opensolutions/!svn/ver/236/branches/yayasan-astra/system/application/views/akun/template_kas.php
+END
+list_level_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensolutions/!svn/ver/233/branches/yayasan-astra/system/application/views/akun/list_level_add.php
+END
+list_transaksi_pengeluaran.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/opensolutions/!svn/ver/257/branches/yayasan-astra/system/application/views/akun/list_transaksi_pengeluaran.php
+END
+list_tutup.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/259/branches/yayasan-astra/system/application/views/akun/list_tutup.php
+END
+list_transaksi_pengeluaran_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/opensolutions/!svn/ver/287/branches/yayasan-astra/system/application/views/akun/list_transaksi_pengeluaran_edit.php
+END
+list_transaksi_pengeluaran_add.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/opensolutions/!svn/ver/287/branches/yayasan-astra/system/application/views/akun/list_transaksi_pengeluaran_add.php
+END
+list_group.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/opensolutions/!svn/ver/231/branches/yayasan-astra/system/application/views/akun/list_group.php
+END
+jurnal_umum_listing.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/opensolutions/!svn/ver/248/branches/yayasan-astra/system/application/views/akun/jurnal_umum_listing.php
+END
