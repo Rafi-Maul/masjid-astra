@@ -1,1 +1,0 @@
-ALTER TABLE trans.kota DROP COLUMN flag_history;ALTER TABLE trans.kota DROP COLUMN flag_delete;
